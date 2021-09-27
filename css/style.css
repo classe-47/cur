@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+}
+
+
+/* +++++++++++ header */
+.sezione-header {
+    background-color: lightgrey;
+    text-align:center;
+    border-bottom: 2px solid #d29622;
+}
+
+.img-cur {
+    width: 200px;
+}
+
+
+/* +++++++ main */
+h2 {
+    color: #d29622;
+}
+
+h3 {
+    font-style: italic;
+}
+
+.green {
+    background-color: green;
+    color: white;
+}
