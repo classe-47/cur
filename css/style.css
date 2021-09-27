@@ -12,7 +12,7 @@ body {
 .sezione-header {
     background-color: lightgrey;
     text-align:center;
-    border-bottom: 2px solid #d29622;
+    
 }
 
 .img-cur {
@@ -32,4 +32,14 @@ h3 {
 .green {
     background-color: green;
     color: white;
+}
+
+
+/* ++++++ footer */
+
+footer {
+    font-size:12px;
+}
+.container-footer {
+    border-top: 2px solid #d29622;
 }
